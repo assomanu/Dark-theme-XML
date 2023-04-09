@@ -2,7 +2,7 @@
 
 <!--* I copied and modified this code from-->
 <!--https://github.com/ubuntu/yaru/blob/master/gtksourceview/gtksourceview-5/dark.xml.in-->
-<!--* To document the style names used for C language, use-->
+<!--* To document the <style name="..."> definitions used for C language, use-->
 <!--        $ locate gtksourceview | grep /c.lang-->
 <!--  and open one of the shown c.lang files in your text editor.-->
 
