@@ -1,7 +1,7 @@
 # Dark-theme-XML
 A nice dark color scheme I use in gedit.
 
-All I did was copying [this color scheme](https://github.com/ubuntu/yaru/blob/master/gtksourceview/gtksourceview-5/dark.xml.in) (which is Yaru Dark), then I changed some colors and added
+All I did was copying [this color scheme](https://github.com/ubuntu/yaru/blob/master/gtksourceview/gtksourceview-5/dark.xml.in) (which is Yaru Dark), then I changed most of the colors of C keywords and added
 
 ```xml
 <style name="def:operator" foreground="purple_2"/>
@@ -23,4 +23,4 @@ Of course you can repeat that process with any other supported programming langu
 - "Font & Colours"
 - Click on "+" button (install scheme)
 - Browse and select yaru-alt-dark.xml
-- Now you have a cool theme made by me.
+- Now you have a cool theme to code like a badass.
