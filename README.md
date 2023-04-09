@@ -23,4 +23,4 @@ Of course you can repeat that process with any other supported programming langu
 - "Font & Colours"
 - Click on "+" button (install scheme)
 - Browse and select yaru-alt-dark.xml
-- Now you have a cool theme to code like a badass.
+- Now you have a cool theme to feel like a badass programmer.
