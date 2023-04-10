@@ -1,10 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!--* I copied and modified this code from-->
-<!--https://github.com/ubuntu/yaru/blob/master/gtksourceview/gtksourceview-5/dark.xml.in-->
-<!--* To document the <style name="..."> definitions used for C language, use-->
-<!--        $ locate gtksourceview | grep /c.lang-->
-<!--  and open one of the shown c.lang files in your text editor.-->
+<!--
+    * I copied this code from
+      /usr/share/gtksourceview-4/styles/Yaru-dark.xml
+      and then I canged the color settings.
+
+    * To document the style-name's used for C language, use
+        $ locate gtksourceview | grep /c.lang
+      and open one of the shown c.lang files in your text
+      editor.
+      
+    * You can add/modify keyboards by editing the c.lang file
+      situated in the following directory:
+      /usr/share/gtksourceview-4/language-specs/
+                                                             -->
 
 <style-scheme id="yaru_alt" _name="Yaru Alt Dark" version="1.0">
   <author>Emanuele Di Stefano</author>
